@@ -12,6 +12,8 @@
 
 # Results
 
-Both the models does the job of classifying the reviews as Negative, Neutral and Positive. But Roberta model is better performant than VADER sentiment analysis.
+Both the models does the job of classifying the reviews as Negative, Neutral and Positive. But Roberta model is better performant than VADER sentiment analysis because of following reasons:
 
-It's best to use Roberta model for sentiment analysis classification because VADER uses a Bag of words approach i.e., it gives the score for every word in the text and finally combines the scores of all the words to get a compound score of the text. VADER also doesn't consider the relationship of words present in the text which is quite important while performing sentiment analysis.
+1. VADER uses a Bag of words approach i.e., it gives the score for every word in the text and finally combines the scores of all the words to get a compound score of the text.
+  
+2. VADER also doesn't consider the relationship of words present in the text which is quite important while performing sentiment analysis.
