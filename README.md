@@ -10,6 +10,10 @@
 
 4. Next, Sentiment Analysis on the dataset is performed using VADER and the pre-trained transformer model 'Roberta'. Finally. the results are compared.
 
+# Note:
+
+It is requested to run in GPU or TPU environment (Google Colab has been used in this project) because of huge dataset used and large computation required.
+
 # Results
 
 Both the models does the job of classifying the reviews as Negative, Neutral and Positive. But Roberta model is better performant than VADER sentiment analysis because of following reasons:
