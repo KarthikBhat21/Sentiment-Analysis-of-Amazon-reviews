@@ -4,7 +4,7 @@
       (a) VADER (Valence Aware Dictionary and sEntiment Reasoner) - Bag of words approach.
       (b) Roberta Pretrained Model from HuggingFace.
   
-2. A dataset consisting of half a million records is taken as input which is in the form of a csv file.
+2. A dataset consisting of half a million records has been reduced to 1000 records because of GitHub's size limit. It is taken as input which is in the form of a csv file.
 
 3. Simple EDA is performed on the dataset to understand the dataset.
 
@@ -12,7 +12,7 @@
 
 # Note:
 
-It is requested to run in GPU or TPU environment (Google Colab has been used in this project) because of huge dataset used and large computation required.
+It is requested to run in GPU or TPU environment (Google Colab can been used in this project) if the huge dataset is used which results in large computation.
 
 # Results
 
