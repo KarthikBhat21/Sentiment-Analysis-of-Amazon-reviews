@@ -12,7 +12,7 @@
 
 # Note:
 
-It is requested to run in GPU or TPU environment (Google Colab can been used in this project) if the huge dataset is used which results in large computation.
+It is requested to run in GPU or TPU environment (Google Colab can been used in this project) if the huge dataset is used which needs huge computational power.
 
 # Results
 
